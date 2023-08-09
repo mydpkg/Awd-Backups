@@ -14,3 +14,5 @@ Usage of ./Awd-Backups_darwin_amd64:
   -u string
     	用户名
 ```
+
+已完成文件备份自动化功能，自动识别/var/www以及其链接目录，并自动下载至本地和解压到/tmp目录
